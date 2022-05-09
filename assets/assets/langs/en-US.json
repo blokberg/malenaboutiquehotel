@@ -1,9 +1,19 @@
 {
-  "malena": "Malena Boutique Hotel",
+  "malena": "Malena Hotel",
   "rooms": "ROOMS",
   "beach": "BEACH",
   "bar": "BAR",
   "contact": "CONTACT US",
+  "about": "ABOUT",
+  "stories": "STORIES",
   "directions": "directions",
-  "mailSubject": "Information request"
+  "seeAll": "view all",
+  "menu": "menu",
+  "mailSubject": "Information request",
+  "subtitles": {
+    "room": "There are five types of rooms with different size and designs at Malena Hotel.\n\nSmall room: 12 m2\nStandart room: 18 m2\nLarge room: 35 m2\nCorner terrace: 25 m2 + 16 m2 terrace\nPenthouse suite: 55 m2\n\nThe rooms are  designed and decorated for all sort of needs and comfort of the guests.",
+    "beach": "Malena Boutique Beach is only 50 meters away from the hotel.\nThe Beach has a capacity of 60 sunbeds, 120 person seating group,  snack bar, changing rooms.\nYou can enjoy the clean and clear sea between 09:30 and 21:30 every day of the week.\n\nThe beach is free of charge for hotel guests. A reservation is mandatory for non-hotel guests. \n\nThe facility is also available for private organizations such as weddings etc.",
+    "bar": "Malena Cocktail Bar  offers you 3 nights a week live music with 27 tables, 5 bistros, billiards & darts area.\n\nPhilips Hue light system combined with a warm ambiance provides all the entertainment and comfort during your stay at Malena Hotel.\nMalena Cocktail Bar is open between 15:00 and 02:00 every day.\n\nDon't forget making a reservation.",
+    "about": "Malena Hotel, Malena Cocktail Bar and Malena Boutique Beach are subsidiaries of Açıkdeniz Tourism and Trade Limited Company.\nThe hotel was built in November 2019 and started its operations on 1 February 2020.\n\nWe are only 120 km away from Izmir, 168 km from Izmir Airport, 40 km away from Ayvalık and 1.1km away from  Dikili city center.\n\nThe hotel is open whole year and offers all 4 seasons with different tastes."
+  }
 }

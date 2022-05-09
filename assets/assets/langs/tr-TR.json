@@ -1,9 +1,19 @@
 {
-  "malena": "Malena Butik Otel",
+  "malena": "Malena Hotel",
   "rooms": "ODALAR",
   "beach": "PLAJ",
   "bar": "BAR",
   "contact": "BİZE ULAŞIN",
+  "about": "HAKKIMIZDA",
+  "stories": "ÖYKÜLER",
   "directions": "yol tarifi",
-  "mailSubject": "Bilgi talebi"
+  "seeAll": "tümünü gör",
+  "menu": "menü",
+  "mailSubject": "Bilgi talebi",
+  "subtitles": {
+    "room": "Malena Hotel bünyesinde farklı tasarımlarla hazırlanmış beş tip odamız vardır.\n\nSmall room: 12 m2\nStandart room: 18 m2\nLarge room: 35 m2\nCorner terrace: 25 m2 + 16 m2 teras\nPenthouse suite: 55 m2\n\nOdaların tasarımları ve mimarisi kendine özgüdür. Tamamen sizin konforunuz için tasarlanmıştır.",
+    "beach": "Malena Boutique Beach otele sadece 50m mesafededir.\n60 şezlong kapasitesi, 120 kişilik oturma grubu, barı, soyunma kabinleri, temiz ve berrak denizi ile sabah 09:30 akşam 21:30 saatleri arasında otel misafirlerimize ücretsiz, dışardan gelecek misafirlere rezervasyon ile hizmet vermektedir.\n\nÖzel organizasyonlarınıza olanak sunmaya da özen gösteriyoruz. Bu çerçevede, plajımızda nikah/nişan organizasyonlarınızı yapabilirsiniz.",
+    "bar": "Malena Cocktail Bar, özgün tasarımı ve profesyonel müzik sistemi ile haftanın 3 günü sahne organizasyonları yapmakta, birbirinden değerli sesleri sizlerle buluşturmaktadır.\n\n27 masa, 5 bistro, bilardo alanı, dart alanı, akvaryumu, şöminesi ve Philips Hue ışık sistemiyle eğlenceyi ve konforu birleştirerek sizlere sunmaktadır.\n\nAlanında uzman çalışanlarımız ile müşteri memnuniyeti esas alınmaktadır.\n\nBu ayrıcalıklı deneyimi yaşamak için rezervasyon yaptırmayı unutmayın.\n\nMalena Cocktail Bar, 15:00 - 02:00 arasında hizmet vermektedir.",
+    "about": "Malena Hotel, Malena Cocktail Bar ve Malena Boutique Beach Açıkdeniz Turizm ve Ticaret Limited Şirketi iştirakidir.\n\n2019 Kasım ayında alınıp, 1 Şubat 2020 tarihinde faaliyete geçmiştir.\n\nİzmir' e 120km, İzmir Havalimanı' na 168km, Ayvalık' a 40km mesafede bulunan, İzmir iline bağlı Dikili ilçesinin merkezine 1.1km uzaklığında, denize 50m mesafede bir tesistir.\n\nYılın 12 ayı faaliyette olan tesisimiz, 4 mevsimi ayrı ve farklı tatlarla sizlere sunmaktadır."
+  }
 }
